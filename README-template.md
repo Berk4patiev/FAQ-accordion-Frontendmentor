@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Berk](https://github.com/Berk4patiev/FAQ-accordion-Frontendmentor)
-- Live Site URL: [Visit Here]([https://your-live-site-url.com](https://berk4patiev.github.io/FAQ-accordion-Frontendmentor/))
+- Live Site URL: [Visit Here](https://berk4patiev.github.io/FAQ-accordion-Frontendmentor/)
 
 ## My process
 
